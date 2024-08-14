@@ -1,0 +1,147 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+    {font-family:Wingdings;
+    panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+    {font-family:Wingdings;
+    panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+    {font-family:Calibri;
+    panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+    {font-family:Tahoma;
+    panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+    {margin:0in;
+    margin-bottom:.0001pt;
+    font-size:11.0pt;
+    font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+    {mso-style-priority:99;
+    color:#0563C1;
+    text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+    {mso-style-priority:99;
+    color:#954F72;
+    text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+    {mso-style-priority:99;
+    mso-style-link:"Balloon Text Char";
+    margin:0in;
+    margin-bottom:.0001pt;
+    font-size:8.0pt;
+    font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+    {mso-style-priority:34;
+    margin-top:0in;
+    margin-right:0in;
+    margin-bottom:0in;
+    margin-left:.5in;
+    margin-bottom:.0001pt;
+    font-size:11.0pt;
+    font-family:"Calibri","sans-serif";}
+span.EmailStyle17
+    {mso-style-type:personal-compose;
+    font-family:"Calibri","sans-serif";
+    color:windowtext;}
+span.BalloonTextChar
+    {mso-style-name:"Balloon Text Char";
+    mso-style-priority:99;
+    mso-style-link:"Balloon Text";
+    font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+    {mso-style-type:export-only;
+    font-family:"Calibri","sans-serif";}
+@page WordSection1
+    {size:8.5in 11.0in;
+    margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+    {page:WordSection1;}
+/* List Definitions */
+@list l0
+    {mso-list-id:445276355;
+    mso-list-type:hybrid;
+    mso-list-template-ids:-822185964 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+    {mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l0:level2
+    {mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";}
+@list l0:level3
+    {mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l0:level4
+    {mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l0:level5
+    {mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";}
+@list l0:level6
+    {mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l0:level7
+    {mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l0:level8
+    {mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";}
+@list l0:level9
+    {mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+ol
+    {margin-bottom:0in;}
+ul
+    {margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal>
+
+<img width=300 height=75 id="Picture" src="cid:PrysmianLogo.png" alt=Prysmian-MS-Logo-400px>
+
+<o:p></o:p></p><p class=MsoNormal><b><span style='font-size:16.0pt;font-family:"Arial","sans-serif";color:#5B9BD5'>{JOB(Active|Variable|Environment)} VisualCron: Job {JOB(Active|Name)} </span></b><b><span style='font-size:16.0pt;font-family:"Arial","sans-serif";color:red'>Failed</span></b><b><span style='font-size:16.0pt;font-family:"Arial","sans-serif";color:#5B9BD5'><o:p></o:p></span></b></p><div class=MsoNormal align=center style='text-align:center'><b><span style='font-size:16.0pt;font-family:"Arial","sans-serif";color:#5B9BD5'><hr size=2 width="100%" noshade style='color:#5B9BD5' align=center></span></b></div><p class=MsoNormal><b><span style='font-size:16.0pt;font-family:"Arial","sans-serif";color:#5B9BD5'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal>This message is to notify you that the execution of production job {JOB(Active|Name)} has <span style='color:red'>failed</span>. Below are the job details<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 style='margin-left:.5in;border-collapse:collapse;border:none'><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>ServerName:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{COMPUTER(Name)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>IP Address:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{SERVER(IP)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>VisualCron Version:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{SERVER(Version)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'><o:p>&nbsp;</o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'><o:p>&nbsp;</o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Job Name:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{JOB(Active|Name)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Job Group:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{JOB(Active|Group)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Job Desc:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{JOB(Active|Desc)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Job Results:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{JOB(Active|Result)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Job Exit Code:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{JOB(Active|ExitCode)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Next Run:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{JOB(Active|NextRun|M/d/yyyy h:mm tt)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'><o:p>&nbsp;</o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'><o:p>&nbsp;</o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Last Task Name:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{TASK(PrevTask|Name)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Last Task Type:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{TASK(PrevTask|Type)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Last Task Exit Code:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{TASK(PrevTask|ExitCode)} - {TASK(PrevTask|ExitCodeDesc)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Last Task Result:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{TASK(PrevTask|Result)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Last Task Output:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{TASK(PrevTask|StdOut)}<o:p></o:p></p></td></tr><tr><td width=240 valign=top style='width:2.0in;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>Last Task Error Output:<o:p></o:p></p></td><td width=1170 valign=top style='width:701.7pt;padding:0in 5.4pt 0in 5.4pt'><p class=MsoListParagraph style='margin-left:0in'>{TASK(PrevTask|StdErr)}<o:p></o:p></p></td></tr></table><p class=MsoListParagraph>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></p><p class=MsoNormal>Please look into it as soon as possible. Check VisualCron job &amp; task history for more details. <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Thanks and Best Regards!<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Note: Please do not reply to this e-mail, as it is an unmonitored alias. <o:p></o:p></p><p class=MsoNormal><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></b></p></div></body></html>
